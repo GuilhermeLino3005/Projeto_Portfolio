@@ -1,0 +1,47 @@
+body{
+     background: #22212c;
+     width: 1440px;
+     height: 1767px;
+
+}
+#perfil{
+     border-radius: 20px;
+     background: #302F3D;
+     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.20);
+     width: 348px;
+     height: 292px;
+     flex-shrink: 0;
+     text-align: center;
+     
+     
+     
+}
+#perfil h2{
+     height: 12px;
+     color: #837E9F;
+     font-family: "Merriweather Sans";
+     font-size: 23px;
+     font-style: normal;
+     font-weight: 700;
+     line-height: normal;
+     text-align: center;
+     
+
+}
+#perfil p{
+     color: #837E9F;
+     font-family: "Merriweather Sans";
+     font-size: 13px;
+     font-style: normal;
+     font-weight: 300;
+     line-height: normal;
+     text-align: center;
+}
+
+#perfil img{
+     width: 128px;
+     height: 128px;
+     flex-shrink: 0;
+     padding: 15px;  
+}
+
