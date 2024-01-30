@@ -4,7 +4,7 @@ body{
      height: 1767px;
 
 }
-.border{
+#perfil.border{
      border-radius: 20px;
      background: #302F3D;
      box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.20);
@@ -45,4 +45,33 @@ body{
      flex-shrink: 0;
      padding: 15px;  
 }
+#redes_sociais{
+
+
+}
+
+#redes_sociais.border{
+     border-radius: 20px;
+     background: #302F3D;
+     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.20);
+     width: 348px;
+     height: 180px;
+     flex-shrink: 0;
+     text-align: center;
+     margin: 15px; 
+     
+    
+}
+#redes_sociais a{
+     text-decoration: none;
+     color: #837E9F;
+     font-family: "Merriweather Sans";
+     font-size: 13px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: normal;
+     height: 38px;  
+}
+
+
 
