@@ -4,7 +4,7 @@ body{
      height: 1767px;
 
 }
-#perfil{
+.border{
      border-radius: 20px;
      background: #302F3D;
      box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.20);
@@ -12,6 +12,7 @@ body{
      height: 292px;
      flex-shrink: 0;
      text-align: center;
+     margin: 15px;
      
      
      
